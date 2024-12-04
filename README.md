@@ -47,20 +47,14 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
 </div>
-
-<br>
-
 <div>
-  	<table>
-    	<tr>
-        	<td align="center">
-            	<img src="https://github-readme-stats.vercel.app/api?username=woogym&show_icons=true&theme=tokyonight" alt="Woogym's github stats" />
-        	</td>
-    	</tr>
-  	</table>
+	<h3>☘️ Blog  </h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woogym)](https://velog.io/@woogym)
+	<img src="https://github-readme-stats.vercel.app/api?username=woogym&show_icons=true&theme=tokyonight" alt="Woogym's github stats" />
+
 </div>
 
-<br>
 
 <div align="center">
   	<a href="https://github.com/woogym">
